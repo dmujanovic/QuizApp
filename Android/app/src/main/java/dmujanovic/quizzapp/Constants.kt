@@ -9,7 +9,7 @@ object Constants{
             1, "Koje su dvije glavne vrste alpaki?",
             R.drawable.firstquestion,
             "Pitome i divlje",
-            "Suri & Huacaya",
+            "Suri i Huacaya",
             "Azijska i Australijska",
             "Camelid i Gothic",
             2
