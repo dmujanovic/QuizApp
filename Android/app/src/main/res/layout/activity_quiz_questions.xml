@@ -19,7 +19,7 @@
             android:id="@+id/tvQuestion"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="10dp"
+            android:layout_margin="5dp"
             android:gravity="center"
             android:textColor="@color/white"
             android:textStyle="bold"
@@ -29,7 +29,7 @@
             android:id="@+id/ivImage"
             android:layout_width="200dp"
             android:layout_height="200dp"
-            android:layout_marginTop="16dp"
+            android:layout_marginTop="5dp"
             android:src="@drawable/firstquestion"/>
         <LinearLayout
             android:id="@+id/ll_progress_details"
@@ -70,9 +70,9 @@
             android:layout_margin="10dp"
             android:background="@drawable/default_option_border_bg"
             android:gravity="center"
-            android:padding="15dp"
+            android:padding="10dp"
             android:textColor="#7A8089"
-            android:textSize="18dp"
+            android:textSize="15dp"
             android:text="Apple"/>
 
         <TextView
@@ -82,9 +82,9 @@
             android:layout_margin="10dp"
             android:background="@drawable/default_option_border_bg"
             android:gravity="center"
-            android:padding="15dp"
+            android:padding="10dp"
             android:textColor="#7A8089"
-            android:textSize="18dp"
+            android:textSize="15dp"
             android:text="Apple"/>
 
         <TextView
@@ -94,9 +94,9 @@
             android:layout_margin="10dp"
             android:background="@drawable/default_option_border_bg"
             android:gravity="center"
-            android:padding="15dp"
+            android:padding="10dp"
             android:textColor="#7A8089"
-            android:textSize="18dp"
+            android:textSize="15dp"
             android:text="Apple"/>
 
         <TextView
@@ -106,9 +106,9 @@
             android:layout_margin="10dp"
             android:background="@drawable/default_option_border_bg"
             android:gravity="center"
-            android:padding="15dp"
+            android:padding="10dp"
             android:textColor="#7A8089"
-            android:textSize="18dp"
+            android:textSize="15dp"
             android:text="Apple"/>
 
         <Button
